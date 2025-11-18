@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Discord
+Exec=/usr/bin/vesktop %U
+Terminal=false
+Type=Application
+Icon=discord
+StartupWMClass=vesktop
+GenericName=Internet Messenger
+Categories=Network;
+Keywords=discord;vencord;electron;chat;
+Comment=Discord with better Linux/Wayland support (Vesktop)
+MimeType=x-scheme-handler/discord

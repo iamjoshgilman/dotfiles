@@ -1,0 +1,1 @@
+/home/whiterqbbit/.config/omarchy/current/theme/neovim.lua
