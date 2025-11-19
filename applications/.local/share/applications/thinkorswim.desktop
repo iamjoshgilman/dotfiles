@@ -2,7 +2,7 @@
 Name=thinkorswim
 Comment=TD Ameritrade trading platform
 Exec=/home/whiterqbbit/thinkorswim/thinkorswim
-Icon=thinkorswim
+Icon=/home/whiterqbbit/thinkorswim/.install4j/thinkorswim.png
 Terminal=false
 Type=Application
 Categories=Finance;Office;
